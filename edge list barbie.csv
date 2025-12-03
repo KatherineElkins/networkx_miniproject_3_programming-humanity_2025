@@ -1,0 +1,29 @@
+Source,Target,Weight
+Barbie Margot,Ken Ryan Gosling,10
+Ken Ryan Gosling,Ken Simu Liu,7
+Barbie Margot,President Barbie,6
+Barbie Margot,Weird Barbie,5
+Ken Ryan Gosling,President Barbie,5
+Barbie Margot,Ken Simu Liu,4
+Ken Ryan Gosling,Doctor Barbie,4
+Barbie Margot,Gloria,4
+Barbie Margot,Sasha,4
+President Barbie,Doctor Barbie,4
+President Barbie,Physicist Barbie,4
+Doctor Barbie,Physicist Barbie,4
+Ken Simu Liu,President Barbie,4
+Ken Simu Liu,Doctor Barbie,4
+Ken Simu Liu,Physicist Barbie,4
+Ken Ryan Gosling,Mattel CEO,3
+Barbie Margot,Mattel CEO,3
+Gloria,Sasha,3
+Ken Ryan Gosling,Gloria,3
+Ken Ryan Gosling,Sasha,3
+Weird Barbie,Allan,3
+Weird Barbie,Gloria,3
+Barbie Margot,Ruth,1
+Allan,Gloria,2
+Allan,Sasha,2
+Weird Barbie,Sasha,2
+Barbie Margot,Allan,1
+Ken Ryan Gosling,Weird Barbie,1
